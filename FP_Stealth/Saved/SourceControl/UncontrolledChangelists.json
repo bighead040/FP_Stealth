@@ -5,7 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap"
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/NewBlueprint.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/BP_Patrol.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_Character_Base.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Player/BP_Player_FP.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Player/BP_Controller_Player.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/GM_Gameplay.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/AI/BP_Controller_Enemy.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/AI/BT_NPC_Enemy.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/AI/BB_NPC_Enemy.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_Patrol.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Gameplay/BP_Patrol.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Gameplay/AI_Patrol/BP_Patrol.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Gameplay/AI_Patrol/BP_Patrol_Base.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Gameplay/AI_Patrol/BP_Patrol_Target.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Gameplay/AI_Patrol/STRUCT_PatrolPointInfo.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_Player_FP.uasset",
+				"D:/UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset"
 			]
 		}
 	]
