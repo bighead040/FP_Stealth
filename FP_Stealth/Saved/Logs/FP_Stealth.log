@@ -17427,3 +17427,1446 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.20-19.08.03:414][708]AssetCheck: New page: Asset Save: StarterMap
 [2023.05.20-19.08.03:414][708]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
 [2023.05.20-19.08.04:731][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.05.20-19.09.06:019][207]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957574604
+[2023.05.20-19.09.06:019][207]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.05.20-19.09.10:343][431]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 224
+[2023.05.20-19.09.10:343][431]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2023.05.20-19.09.19:213][916]LogSlate: Window 'Size Map' being destroyed
+[2023.05.20-19.09.19:221][916]LogSlate: Window 'Size Map' being destroyed
+[2023.05.20-19.09.25:193][248]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.09.27:294][366]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.05.20-19.09.30:513][549]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.09.32:461][661]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/AIModule.BehaviorTree
+[2023.05.20-19.09.33:309][708]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.05.20-19.09.37:795][961]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.09.38:471][999]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.05.20-19.09.43:531][268]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.09.45:534][380]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.SoundWave
+[2023.05.20-19.09.53:074][792]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.09.54:197][855]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.05.20-19.11.35:040][474]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.20-19.12.08:872][131]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.20-19.12.11:503][292]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.12.11:510][292]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.12.32:662][987]LogEditorTransaction: Undo Delete current selection
+[2023.05.20-19.12.50:661][300]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.20-19.12.52:679][447]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.12.52:687][447]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.12.59:246][859]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.20-19.13.01:088][993]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.01:095][993]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.07:697][403]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.20-19.13.09:704][549]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.09:711][549]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.15:962][951]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.05.20-19.13.18:363][126]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.18:369][126]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-19.13.50:876][794]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.13.50:978][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.20-19.13.51:435][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.13.51:504][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.13.51:519][819]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.13.51:519][819]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyB4DCDD37479D15DF9C154893A4FB9A8C.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.13.51:527][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.06 sec)
+[2023.05.20-19.13.51:533][819]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.13.51:533][819]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.13.52:026][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:027][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:027][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:028][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:028][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:028][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:029][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:029][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:030][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:032][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.13.52:032][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.15.06:326][936]Cmd: SELECT NONE
+[2023.05.20-19.15.08:019][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.15.08:085][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.15.08:108][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.20-19.15.08:123][ 47]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.15.08:123][ 47]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapD21CF088414CFE461680AEA0A0B970B6.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.15.08:130][ 47]LogFileHelpers: Saving map 'StarterMap' took 0.044
+[2023.05.20-19.15.08:138][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 4.18 sec)
+[2023.05.20-19.15.08:143][ 47]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.15.08:143][ 47]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.27.40:401][631]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.27.40:410][631]LogBlueprint: Warning: [AssetLog] D:\UE5_projects\GitHub\FP_Stealth\FP_Stealth\Content\Blueprints\NPC\Enemy\BP_NPC_Enemy.uasset: [Compiler] Can't parse default value 'False' for  . Property: PatrolWalkSpeed.
+[2023.05.20-19.27.40:410][631]LogBlueprint: Warning: [AssetLog] D:\UE5_projects\GitHub\FP_Stealth\FP_Stealth\Content\Blueprints\NPC\Enemy\BP_NPC_Enemy.uasset: [Compiler] Can't parse default value 'False' for  . Property: SuspiciousWalkSpeed.
+[2023.05.20-19.27.40:410][631]LogBlueprint: Warning: [AssetLog] D:\UE5_projects\GitHub\FP_Stealth\FP_Stealth\Content\Blueprints\NPC\Enemy\BP_NPC_Enemy.uasset: [Compiler] Can't parse default value 'False' for  . Property: AlarmedWalkSpeed.
+[2023.05.20-19.27.40:461][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.20-19.27.40:927][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.27.41:013][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.27.41:027][653]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.27.41:027][653]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy51909F3F4CF9E5C8F55164AA20D8AB5F.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.27.41:035][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.29 sec)
+[2023.05.20-19.27.41:041][653]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.27.41:041][653]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.27.47:891][139]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.27.47:949][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.20-19.27.48:808][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.27.48:871][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.27.48:884][193]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.27.48:885][193]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy1FF1C9144E34174B53EF769B8A76A376.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.27.48:891][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.37 sec)
+[2023.05.20-19.27.48:896][193]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.27.48:896][193]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.28.01:104][936]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.28.01:171][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.05.20-19.28.01:607][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.28.01:671][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.28.01:684][954]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.28.01:685][954]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy8AB73E854CD4E7F9FFB791BA0B0ACFE5.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.28.01:692][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 4.46 sec)
+[2023.05.20-19.28.01:699][954]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.28.01:699][954]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.28.35:500][379]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.28.35:557][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.20-19.28.36:069][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.28.36:121][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.28.36:135][404]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.28.36:135][404]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy3D21C0AE40740BE1A4BE8CBA50E19589.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.28.36:142][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.53 sec)
+[2023.05.20-19.28.36:148][404]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.28.36:148][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.28.36:333][416]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.28.44:146][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.28.44:208][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.28.44:232][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.20-19.28.44:246][779]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.28.44:247][779]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap4EEC0D66406315E07CAFC9ABF8E48514.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.28.44:252][779]LogFileHelpers: Saving map 'StarterMap' took 0.045
+[2023.05.20-19.28.44:260][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 4.64 sec)
+[2023.05.20-19.28.44:265][779]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.28.44:265][779]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.30.29:246][729]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.30.29:350][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.20-19.30.29:850][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.30.29:933][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.30.29:947][758]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.30.29:947][758]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyAB46731040E10CAE91AF9F80E793065C.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.30.29:955][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 4.75 sec)
+[2023.05.20-19.30.29:960][758]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.30.29:960][758]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.32.12:973][ 53]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-19.32.13:167][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.20-19.32.13:586][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.32.13:646][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-19.32.13:652][ 66]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-19.32.13:652][ 66]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base0D85EA624B046E2B8BB52CADFDD5368E.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-19.32.13:660][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.82 sec)
+[2023.05.20-19.32.13:665][ 66]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-19.32.13:665][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-19.32.48:227][112]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-19.32.48:431][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.05.20-19.32.48:732][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.32.48:782][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-19.32.48:788][117]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-19.32.48:788][117]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base4DEFDD6442EE179B7E4DA6A5ECB30B73.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-19.32.48:795][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 4.88 sec)
+[2023.05.20-19.32.48:800][117]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-19.32.48:800][117]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-19.32.57:577][848]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.32.57:680][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.20-19.32.58:128][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.32.58:198][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.32.58:212][870]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.32.58:213][870]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyEEBDE5DC4387A7A4FC1284A1E2C955DB.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.32.58:220][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 4.98 sec)
+[2023.05.20-19.32.58:226][870]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.32.58:226][870]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.33.47:141][789]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.33.47:246][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.20-19.33.47:729][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.33.47:783][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.33.47:798][815]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.33.47:799][815]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy508C3222462DC45E892AE393D7B4586D.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.33.47:807][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 5.05 sec)
+[2023.05.20-19.33.47:813][815]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.33.47:813][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.33.48:073][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.33.50:492][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.05.20-19.33.50:495][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.33.50:549][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.33.50:572][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.05.20-19.33.50:585][953]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.33.50:586][953]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapA89509784CEBA84830F501B0524C5665.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.33.50:592][953]LogFileHelpers: Saving map 'StarterMap' took 0.042
+[2023.05.20-19.33.50:598][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 5.16 sec)
+[2023.05.20-19.33.50:605][953]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.33.50:605][953]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.34.35:460][401]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.34.35:514][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.20-19.34.35:945][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.34.36:023][411]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.34.36:023][411]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy5328276148AB5B4B26A355A1FA3C8068.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.34.36:031][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.24 sec)
+[2023.05.20-19.34.36:036][411]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.34.36:036][411]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.34.42:341][726]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 4/3 Textures; frames since last flush: 141295
+[2023.05.20-19.34.42:341][726]LogSlate: Warning: Setting the threshold to trigger a flush to 4 non-atlased textures as there is a lot of font data being cached.
+[2023.05.20-19.35.01:046][750]LogSlate: Window 'Size Map' being destroyed
+[2023.05.20-19.35.01:054][750]LogSlate: Window 'Size Map' being destroyed
+[2023.05.20-19.35.03:870][891]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Colors.Foreground'.'
+[2023.05.20-19.35.38:681][661]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.05.20-19.35.42:808][861]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.42:852][862]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.42:902][863]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.42:952][864]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.43:001][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.43:032][866]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.43:065][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: ================================================
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Total job queries 41, among them cache hits 5 (12.20%)
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Tracking 33 distinct input hashes that result in 23 distinct outputs (69.70%)
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: RAM used: 749,36 KiB of 2,40 GiB budget. Usage: 0.03%
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.08 s
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 0.55 s
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.62
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.62 s
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Average processing rate: 1.61 jobs/sec
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Total thread time: 0,308 s
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Total thread preprocess time: 0,013 s
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Percentage time preprocessing: 4.18%
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Effective parallelization: 0.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.05.20-19.35.43:708][890]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.05.20-19.35.43:709][890]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.05.20-19.35.43:709][890]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2023.05.20-19.35.43:709][890]LogShaderCompilers: Display: ================================================
+[2023.05.20-19.35.49:534][ 84]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.36.36:507][503]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.05.20-19.36.39:100][641]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.05.20-19.36.41:164][760]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.05.20-19.36.52:535][346]LogSlate: Window 'Reference Viewer' being destroyed
+[2023.05.20-19.36.55:199][491]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Gameplay.GM_Gameplay
+[2023.05.20-19.36.55:199][491]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.36.55:199][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.36.57:284][609]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.36.57:284][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.37.17:583][551]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.37.29:257][192]BlueprintLog: New page: Compile BP_Player_FP
+[2023.05.20-19.37.29:326][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.20-19.37.29:384][192]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.37.29:748][211]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.37.29:808][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player/BP_Player_FP" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Player/BP_Player_FP.uasset" SILENT=true
+[2023.05.20-19.37.29:819][211]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Player_FP
+[2023.05.20-19.37.29:819][211]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Player_FP9F3D3E75428343B932FCB1BCF5FAEE3C.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/Player/BP_Player_FP.uasset'
+[2023.05.20-19.37.29:827][211]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 5.32 sec)
+[2023.05.20-19.37.29:833][211]AssetCheck: New page: Asset Save: BP_Player_FP
+[2023.05.20-19.37.29:833][211]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Player/BP_Player_FP.BP_Player_FP
+[2023.05.20-19.39.03:067][100]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.39.03:123][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.20-19.39.03:608][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.39.03:670][116]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.39.03:671][116]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy31DD01034186EFE2CEB89AA0BF11F859.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.39.03:679][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 5.39 sec)
+[2023.05.20-19.39.03:684][116]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.39.03:684][116]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.39.04:843][179]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-19.39.04:854][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-19.39.04:855][179]PIE: New page: PIE session: StarterMap (20.05.2023, 23:39:04)
+[2023.05.20-19.39.04:855][179]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.39.04:859][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004500s)
+[2023.05.20-19.39.04:859][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004527s)
+[2023.05.20-19.39.04:859][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.39.04:859][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.39.04:860][179]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-19.39.04:860][179]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2023.05.20-19.39.04:883][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.05.20-19.39.04:884][179]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-19.39.04:885][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-19.39.04:885][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-19.39.04:885][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-19.39.04:885][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-19.39.04:885][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-19.39.04:887][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-19.39.04:929][179]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-19.39.04:929][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-19.39.04:929][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-19.39.04:929][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-19.39.04:930][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.20-19.39.04:930][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.20-19.39.04:931][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.20-19.39.04:931][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.20-19.39.04:931][179]LogInit: FAudioDevice initialized with ID 12.
+[2023.05.20-19.39.04:931][179]LogAudio: Display: Audio Device (ID: 12) registered with world 'StarterMap'.
+[2023.05.20-19.39.04:931][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.05.20-19.39.04:935][179]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-19.39.04:936][179]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-21.39.04
+[2023.05.20-19.39.04:937][179]LogWorld: Bringing up level for play took: 0.001941
+[2023.05.20-19.39.04:939][179]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.05.20-19.39.04:940][179]PIE: Server logged in
+[2023.05.20-19.39.04:941][179]PIE: Play in editor total start time 0,09 seconds.
+[2023.05.20-19.39.04:987][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:987][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:988][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:988][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:988][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:989][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:989][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:990][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:990][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:993][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.04:993][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:138][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.39.10:138][584]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.39.10:138][584]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.39.10:138][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.39.10:247][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-19.39.10:252][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.39.10:278][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-19.39.10:278][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.05.20-19.39.10:278][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.20-19.39.10:280][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.20-19.39.10:284][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.39.10:287][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.20-19.39.10:319][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:319][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:320][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:320][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:321][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:321][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:322][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:323][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:323][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:326][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:326][584]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.39.10:466][585]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.05.20-19.39.58:228][833]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.39.58:336][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.20-19.39.58:776][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.39.58:845][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.39.58:861][852]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.39.58:861][852]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyF4A39031424A00D0A8D90682C88BCD8A.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.39.58:869][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.48 sec)
+[2023.05.20-19.39.58:875][852]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.39.58:875][852]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.40.01:598][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.02:166][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.40.02:228][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.40.02:253][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.20-19.40.02:269][ 83]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.40.02:270][ 83]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapAD47EFB84617AC96D55265B9F3FD2883.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.40.02:276][ 83]LogFileHelpers: Saving map 'StarterMap' took 0.047
+[2023.05.20-19.40.02:286][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 5.60 sec)
+[2023.05.20-19.40.02:291][ 83]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.40.02:291][ 83]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.40.03:864][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-19.40.03:874][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-19.40.03:874][160]PIE: New page: PIE session: StarterMap (20.05.2023, 23:40:03)
+[2023.05.20-19.40.03:874][160]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.40.03:879][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004715s)
+[2023.05.20-19.40.03:879][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004745s)
+[2023.05.20-19.40.03:879][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.03:879][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.03:879][160]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-19.40.03:879][160]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2023.05.20-19.40.03:903][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.20-19.40.03:904][160]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-19.40.03:904][160]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-19.40.03:904][160]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-19.40.03:905][160]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-19.40.03:905][160]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-19.40.03:905][160]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-19.40.03:907][160]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-19.40.03:948][160]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-19.40.03:949][160]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-19.40.03:949][160]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-19.40.03:949][160]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-19.40.03:949][160]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.05.20-19.40.03:950][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.05.20-19.40.03:951][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.05.20-19.40.03:951][160]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.05.20-19.40.03:951][160]LogInit: FAudioDevice initialized with ID 13.
+[2023.05.20-19.40.03:951][160]LogAudio: Display: Audio Device (ID: 13) registered with world 'StarterMap'.
+[2023.05.20-19.40.03:951][160]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2023.05.20-19.40.03:955][160]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-19.40.03:956][160]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-21.40.03
+[2023.05.20-19.40.03:957][160]LogWorld: Bringing up level for play took: 0.001961
+[2023.05.20-19.40.03:959][160]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.05.20-19.40.03:960][160]PIE: Server logged in
+[2023.05.20-19.40.03:961][160]PIE: Play in editor total start time 0,09 seconds.
+[2023.05.20-19.40.04:006][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:007][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:007][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:008][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:009][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:009][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:010][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:011][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:011][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:015][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.04:015][160]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.25:822][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.40.25:822][720]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.40.25:822][720]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.40.25:823][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.40.25:941][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-19.40.25:946][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.40.25:972][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.40.25:972][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2023.05.20-19.40.25:972][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.20-19.40.25:974][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.05.20-19.40.25:981][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.20-19.40.26:014][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:015][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:015][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:016][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:016][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:017][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:017][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:017][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:018][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:020][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:021][720]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.40.26:159][721]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.05.20-19.40.36:803][316]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.05.20-19.40.50:709][287]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2023.05.20-19.40.50:713][287]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2023.05.20-19.40.50:748][287]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights, at AnimationSequence/70b433691f319286e2c77aea42e975011e8a55cc
+[2023.05.20-19.40.50:754][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.50:754][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.50:816][287]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.40.51:001][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.51:001][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.51:972][287]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.05.20-19.40.51:977][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.51:977][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.51:997][287]LogViewport: Scene viewport resized to 1031x544, mode Windowed.
+[2023.05.20-19.40.52:035][287]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.05.20-19.40.56:551][450]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2023.05.20-19.40.56:578][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.56:578][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.56:615][450]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.40.56:615][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.40.59:038][620]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2023.05.20-19.40.59:075][620]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights, at AnimationSequence/39899bb8593b10e2d4003f4db8009fe1c595c53c
+[2023.05.20-19.40.59:078][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.40.59:078][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.40.59:118][620]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.40.59:118][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.00:238][698]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2023.05.20-19.41.00:273][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.00:273][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.00:275][698]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights, at AnimationSequence/8c1a15aa58d0fa38a7a5bdbf1090f2af89d9451c
+[2023.05.20-19.41.00:310][698]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.41.00:310][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.05:974][ 88]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.05.20-19.41.06:891][147]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.06:891][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.06:929][147]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.41.06:929][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.08:475][248]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2023.05.20-19.41.08:503][248]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle, at AnimationSequence/9fe06881d12c2158dc3644911b3db052b2d3a261
+[2023.05.20-19.41.08:511][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.08:512][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.08:550][248]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.41.08:550][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.09:725][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.09:725][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.09:762][323]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.41.09:762][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.20:207][ 32]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.20:207][ 32]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.20:246][ 32]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.41.20:246][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.41.21:984][150]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-19.41.21:995][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-19.41.21:995][150]PIE: New page: PIE session: StarterMap (20.05.2023, 23:41:21)
+[2023.05.20-19.41.21:995][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.41.22:000][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004814s)
+[2023.05.20-19.41.22:000][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004842s)
+[2023.05.20-19.41.22:000][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.41.22:000][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.41.22:001][150]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-19.41.22:001][150]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2023.05.20-19.41.22:031][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.20-19.41.22:033][150]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-19.41.22:033][150]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-19.41.22:034][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-19.41.22:034][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-19.41.22:034][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-19.41.22:034][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-19.41.22:034][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-19.41.22:036][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-19.41.22:077][150]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-19.41.22:077][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-19.41.22:077][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-19.41.22:077][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-19.41.22:078][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.05.20-19.41.22:078][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.05.20-19.41.22:079][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.05.20-19.41.22:079][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.05.20-19.41.22:079][150]LogInit: FAudioDevice initialized with ID 14.
+[2023.05.20-19.41.22:079][150]LogAudio: Display: Audio Device (ID: 14) registered with world 'StarterMap'.
+[2023.05.20-19.41.22:079][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.05.20-19.41.22:082][150]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-19.41.22:084][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-21.41.22
+[2023.05.20-19.41.22:084][150]LogWorld: Bringing up level for play took: 0.001869
+[2023.05.20-19.41.22:086][150]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.05.20-19.41.22:088][150]PIE: Server logged in
+[2023.05.20-19.41.22:089][150]PIE: Play in editor total start time 0,096 seconds.
+[2023.05.20-19.41.22:136][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:136][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:137][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:137][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:138][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:138][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:139][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:139][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:139][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:142][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.22:142][150]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.41.45:803][457]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.155 and deleted 6 files with total size 0 MiB and 6 empty folders. Scanned 3188 files in 4617 folders with total size 202 MiB.
+[2023.05.20-19.42.24:565][612]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.Blueprint
+[2023.05.20-19.43.05:386][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.43.05:386][348]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.43.05:386][348]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.43.05:386][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.43.05:493][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-19.43.05:498][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.43.05:522][348]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-19.43.05:522][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.05.20-19.43.05:522][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.20-19.43.05:523][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.05.20-19.43.05:528][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.43.05:531][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.20-19.43.05:559][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:560][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:560][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:560][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:561][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:561][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:562][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:562][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:562][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:565][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:565][348]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.43.05:624][349]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.05.20-19.43.27:269][956]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.43.27:375][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.05.20-19.43.28:047][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.43.28:108][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.43.28:123][994]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.43.28:124][994]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy02745EFF41C18275052C2B9ADD2600CC.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.43.28:134][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.69 sec)
+[2023.05.20-19.43.28:140][994]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.43.28:140][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.43.35:963][743]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-19.43.36:094][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.05.20-19.43.36:700][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.43.36:751][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-19.43.36:757][785]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-19.43.36:758][785]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base923CE81948EFF0BBB7E6F990872562FA.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-19.43.36:766][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.76 sec)
+[2023.05.20-19.43.36:772][785]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-19.43.36:772][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-19.43.37:093][816]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.44.19:534][368]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.44.19:642][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.05.20-19.44.20:453][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.44.20:493][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.44.20:509][412]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.44.20:509][412]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyE52030C1471126DD582B46817EA3FA1A.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.44.20:519][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 5.82 sec)
+[2023.05.20-19.44.20:524][412]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.44.20:525][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.44.30:882][262]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-19.44.31:112][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.20-19.44.31:621][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.44.31:669][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-19.44.31:676][283]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-19.44.31:676][283]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base41B90E4B49EB770F812853B56A1ABB53.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-19.44.31:685][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 5.89 sec)
+[2023.05.20-19.44.31:691][283]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-19.44.31:691][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-19.44.46:667][443]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.44.46:723][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.20-19.44.47:266][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.44.47:348][472]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.44.47:349][472]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy830AF82B476E150F01FF39B524DA13B9.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.44.47:359][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.98 sec)
+[2023.05.20-19.44.47:364][472]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.44.47:364][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.44.48:162][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.45.42:469][  8]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-19.45.42:683][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.20-19.45.43:089][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.45.43:139][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-19.45.43:145][ 18]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-19.45.43:145][ 18]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_BaseEAD4A6D449E24CC3FD63B69440973CC0.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-19.45.43:155][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 6.05 sec)
+[2023.05.20-19.45.43:161][ 18]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-19.45.43:161][ 18]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-19.46.13:302][263]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.46.13:411][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.20-19.46.14:011][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.46.14:081][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.46.14:096][294]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.46.14:096][294]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyFEFBC90749E178B0482401A03BD658FE.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.46.14:104][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.14 sec)
+[2023.05.20-19.46.14:109][294]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.46.14:109][294]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.46.33:713][803]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.46.33:819][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.20-19.46.34:258][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.46.34:314][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.46.34:330][824]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.46.34:330][824]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy632123484F7868BFF617BCB7429213B6.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.46.34:339][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.22 sec)
+[2023.05.20-19.46.34:344][824]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.46.34:344][824]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.46.36:344][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.46.36:933][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.46.36:993][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.46.37:017][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.20-19.46.37:032][ 28]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.46.37:032][ 28]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapBFF14A664F71816C20B75D8F3ADBC6D0.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.46.37:039][ 28]LogFileHelpers: Saving map 'StarterMap' took 0.046
+[2023.05.20-19.46.37:046][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 6.33 sec)
+[2023.05.20-19.46.37:051][ 28]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.46.37:051][ 28]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.47.11:458][680]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.47.11:514][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.20-19.47.12:086][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.47.12:170][698]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.47.12:170][698]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy67E59F184FF746057499D0AF1E962A73.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.47.12:178][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.42 sec)
+[2023.05.20-19.47.12:184][698]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.47.12:184][698]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.47.15:823][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.47.15:858][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.47.15:882][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.05.20-19.47.15:897][885]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.47.15:897][885]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapDD4053924692CC6D10D472A226D5AEFB.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.47.15:903][885]LogFileHelpers: Saving map 'StarterMap' took 0.045
+[2023.05.20-19.47.15:911][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.51 sec)
+[2023.05.20-19.47.15:916][885]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.47.15:916][885]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.47.22:622][390]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-19.47.22:729][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.20-19.47.23:103][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.47.23:166][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.47.23:182][404]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-19.47.23:182][404]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy9F98CD604F600E4A2C11A2A53E89A9EB.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-19.47.23:190][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.60 sec)
+[2023.05.20-19.47.23:195][404]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-19.47.23:195][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-19.47.23:410][420]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.24:349][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.47.24:408][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-19.47.24:432][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.05.20-19.47.24:448][466]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-19.47.24:448][466]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap74CF5A8B497A16677D4FBBBCBF1B91C8.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-19.47.24:454][466]LogFileHelpers: Saving map 'StarterMap' took 0.046
+[2023.05.20-19.47.24:462][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 6.71 sec)
+[2023.05.20-19.47.24:467][466]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-19.47.24:467][466]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-19.47.25:660][526]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-19.47.25:670][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-19.47.25:670][526]PIE: New page: PIE session: StarterMap (20.05.2023, 23:47:25)
+[2023.05.20-19.47.25:670][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.47.25:675][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004520s)
+[2023.05.20-19.47.25:675][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004547s)
+[2023.05.20-19.47.25:675][526]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.47.25:675][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.47.25:676][526]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-19.47.25:676][526]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.05.20-19.47.25:699][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.20-19.47.25:700][526]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-19.47.25:700][526]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-19.47.25:700][526]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-19.47.25:700][526]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-19.47.25:700][526]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-19.47.25:700][526]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-19.47.25:703][526]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-19.47.25:745][526]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-19.47.25:746][526]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-19.47.25:746][526]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-19.47.25:746][526]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-19.47.25:746][526]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.05.20-19.47.25:746][526]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.05.20-19.47.25:748][526]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.05.20-19.47.25:748][526]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.05.20-19.47.25:748][526]LogInit: FAudioDevice initialized with ID 15.
+[2023.05.20-19.47.25:748][526]LogAudio: Display: Audio Device (ID: 15) registered with world 'StarterMap'.
+[2023.05.20-19.47.25:748][526]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.05.20-19.47.25:751][526]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-19.47.25:752][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-21.47.25
+[2023.05.20-19.47.25:753][526]LogWorld: Bringing up level for play took: 0.002091
+[2023.05.20-19.47.25:755][526]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.05.20-19.47.25:757][526]PIE: Server logged in
+[2023.05.20-19.47.25:758][526]PIE: Play in editor total start time 0,09 seconds.
+[2023.05.20-19.47.25:797][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:797][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:798][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:798][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:799][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:799][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:800][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:800][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:801][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:804][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.47.25:804][526]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:166][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.49.00:166][ 35]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.49.00:167][ 35]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.49.00:167][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.49.00:291][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-19.49.00:295][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.49.00:320][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.49.00:320][ 35]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.05.20-19.49.00:320][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.20-19.49.00:322][ 35]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.05.20-19.49.00:328][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.05.20-19.49.00:359][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:359][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:360][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:360][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:360][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:361][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:361][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:362][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:362][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:364][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:365][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.49.00:499][ 36]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.05.20-19.49.01:860][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.20-19.49.06:296][262]Cmd: SELECT NONE
+[2023.05.20-19.51.28:869][ 69]BlueprintLog: New page: Collapse to Function
+[2023.05.20-19.52.08:287][349]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.52.08:348][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.05.20-19.52.08:964][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.52.09:028][383]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.52.09:028][383]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy0A0515F7433CCE16FCF400A35DF177AC.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.52.09:037][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 6.78 sec)
+[2023.05.20-19.52.09:042][383]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.52.09:043][383]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.52.21:621][397]BlueprintLog: New page: Collapse to Function
+[2023.05.20-19.52.48:595][729]BlueprintLog: New page: Collapse to Function
+[2023.05.20-19.54.04:555][928]LogEditorTransaction: Undo Create Pin Link
+[2023.05.20-19.54.04:719][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.04:863][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:863][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:864][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:864][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:865][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:865][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:865][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:866][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:866][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:869][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.04:869][928]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:024][930]LogEditorTransaction: Undo Break Pin Links
+[2023.05.20-19.54.05:185][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.05:188][930]LogEditorTransaction: Undo Change String Pin Value
+[2023.05.20-19.54.05:295][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.05:579][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:580][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:580][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:580][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:581][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:581][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:582][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:582][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:582][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:585][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:585][930]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.05:652][931]LogEditorTransaction: Undo Create Pin Link
+[2023.05.20-19.54.05:813][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.05:816][931]LogEditorTransaction: Undo Break Pin Links
+[2023.05.20-19.54.05:923][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.06:167][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:168][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:168][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:169][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:169][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:170][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:170][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:170][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:171][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:173][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:173][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:238][932]LogEditorTransaction: Undo Move Node
+[2023.05.20-19.54.06:398][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.20-19.54.06:505][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:505][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:506][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:506][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:507][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:507][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:508][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:508][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:508][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:511][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.06:511][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.39:433][496]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.54.39:494][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.20-19.54.46:247][ 48]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.54.46:307][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.20-19.54.46:763][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.54.46:834][ 77]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.54.46:834][ 77]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy670C8CC7444698B6A1424B997BC717B5.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.54.46:843][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 6.86 sec)
+[2023.05.20-19.54.46:849][ 77]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.54.46:849][ 77]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.54.53:461][649]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.54.53:519][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.20-19.54.53:935][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.54.54:020][677]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.54.54:021][677]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_EnemyD86EEF0B40812599DF05E89BB96CF322.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.54.54:031][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 6.96 sec)
+[2023.05.20-19.54.54:036][677]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.54.54:036][677]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.54.59:228][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-19.54.59:239][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-19.54.59:239][ 53]PIE: New page: PIE session: StarterMap (20.05.2023, 23:54:59)
+[2023.05.20-19.54.59:239][ 53]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.54.59:243][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004670s)
+[2023.05.20-19.54.59:243][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004702s)
+[2023.05.20-19.54.59:243][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-19.54.59:243][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-19.54.59:243][ 53]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-19.54.59:244][ 53]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.05.20-19.54.59:267][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.20-19.54.59:270][ 53]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-19.54.59:270][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-19.54.59:270][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-19.54.59:270][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-19.54.59:270][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-19.54.59:270][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-19.54.59:272][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-19.54.59:319][ 53]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-19.54.59:319][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-19.54.59:319][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-19.54.59:319][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-19.54.59:319][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.05.20-19.54.59:320][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.05.20-19.54.59:321][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.05.20-19.54.59:321][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.05.20-19.54.59:321][ 53]LogInit: FAudioDevice initialized with ID 16.
+[2023.05.20-19.54.59:321][ 53]LogAudio: Display: Audio Device (ID: 16) registered with world 'StarterMap'.
+[2023.05.20-19.54.59:321][ 53]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.05.20-19.54.59:324][ 53]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-19.54.59:325][ 53]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-21.54.59
+[2023.05.20-19.54.59:326][ 53]LogWorld: Bringing up level for play took: 0.001972
+[2023.05.20-19.54.59:328][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.05.20-19.54.59:330][ 53]PIE: Server logged in
+[2023.05.20-19.54.59:330][ 53]PIE: Play in editor total start time 0,095 seconds.
+[2023.05.20-19.54.59:370][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:371][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:371][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:371][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:372][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:372][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:373][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:373][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:374][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:376][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.54.59:377][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.38:906][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.55.38:906][646]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-19.55.38:906][646]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-19.55.38:907][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.55.38:982][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-19.55.38:987][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-19.55.39:014][646]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-19.55.39:014][646]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.05.20-19.55.39:014][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.20-19.55.39:015][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.05.20-19.55.39:018][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-19.55.39:022][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.20-19.55.39:049][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:049][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:050][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:050][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:050][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:051][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:051][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:052][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:052][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:055][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:055][646]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-19.55.39:118][647]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.05.20-19.58.02:504][429]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-19.58.02:564][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.05.20-19.58.03:115][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.58.03:187][457]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-19.58.03:187][457]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy0F96F4674A68C0954FB3B9B60C96C0DB.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-19.58.03:195][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 7.04 sec)
+[2023.05.20-19.58.03:200][457]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-19.58.03:200][457]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-19.58.24:148][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.58.24:200][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.58.24:204][374]LogSavePackage: Moving output files for package: /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy
+[2023.05.20-19.58.24:205][374]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BT_NPC_Enemy50BE932B49F92B080ECDFBA9DB9C0928.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset'
+[2023.05.20-19.58.24:215][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 7.11 sec)
+[2023.05.20-19.58.24:221][374]AssetCheck: New page: Asset Save: BT_NPC_Enemy
+[2023.05.20-19.58.24:221][374]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy.BT_NPC_Enemy
+[2023.05.20-19.58.40:648][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.58.40:714][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.58.40:718][ 32]LogSavePackage: Moving output files for package: /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy
+[2023.05.20-19.58.40:719][ 32]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BT_NPC_Enemy7A27D96B46589B0110E0AFA41E53EA35.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset'
+[2023.05.20-19.58.40:727][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.19 sec)
+[2023.05.20-19.58.40:732][ 32]AssetCheck: New page: Asset Save: BT_NPC_Enemy
+[2023.05.20-19.58.40:732][ 32]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy.BT_NPC_Enemy
+[2023.05.20-19.59.34:025][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-19.59.34:083][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-19.59.34:087][233]LogSavePackage: Moving output files for package: /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy
+[2023.05.20-19.59.34:087][233]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BT_NPC_Enemy4BCAF3C14DF89F582FC7449A007EDD2B.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/AIBehavior/NPC_Enemy/BT_NPC_Enemy.uasset'
+[2023.05.20-19.59.34:095][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 7.25 sec)
+[2023.05.20-19.59.34:100][233]AssetCheck: New page: Asset Save: BT_NPC_Enemy
+[2023.05.20-19.59.34:100][233]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/AIBehavior/NPC_Enemy/BT_NPC_Enemy.BT_NPC_Enemy
+[2023.05.20-20.00.08:564][681]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.00.08:564][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.00.08:576][681]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.00.08:576][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.00.08:629][681]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.00.08:629][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.01.19:584][122]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.01.19:701][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.20-20.01.20:562][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.01.20:640][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.01.20:658][174]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.01.20:658][174]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy7E5CCE1D45B21DA12EE5CDB61EDF5372.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.01.20:668][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 7.36 sec)
+[2023.05.20-20.01.20:673][174]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.01.20:673][174]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.01.33:744][279]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-20.01.33:906][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.20-20.01.34:329][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.01.34:385][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-20.01.34:392][296]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-20.01.34:392][296]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base98FB32AA4EDD5E462A24D08D3699B6C2.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-20.01.34:401][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 7.43 sec)
+[2023.05.20-20.01.34:407][296]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-20.01.34:407][296]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-20.01.34:755][324]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.02.11:781][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.20-20.02.11:799][293]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StarterMap_Auto1
+[2023.05.20-20.02.11:800][293]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap_Auto1846FA0C0459A4E502CE924933C315CD7.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/Autosaves/Game/Maps/StarterMap_Auto1.umap'
+[2023.05.20-20.02.11:803][293]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StarterMap' took 0.046
+[2023.05.20-20.02.11:803][293]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2023.05.20-20.02.38:923][306]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.02.39:034][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.05.20-20.02.39:756][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.02.39:829][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.02.39:847][348]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.02.39:847][348]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy78AC8EFB48E3B4217A5A5D8B7C69DE4C.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.02.39:857][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 7.53 sec)
+[2023.05.20-20.02.39:863][348]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.02.39:863][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.02.52:650][417]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-20.02.52:830][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.20-20.02.53:367][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.02.53:403][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-20.02.53:412][444]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-20.02.53:412][444]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base137F293246D24A3B8F204B829D01247B.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-20.02.53:421][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 7.59 sec)
+[2023.05.20-20.02.53:426][444]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-20.02.53:426][444]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-20.02.53:811][476]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.03.34:271][933]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.03.34:380][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.05.20-20.03.35:040][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.03.35:129][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.03.35:145][970]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.03.35:145][970]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyD0FB3885476427FADC1B69B1927D55D5.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.03.35:156][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 7.70 sec)
+[2023.05.20-20.03.35:161][970]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.03.35:162][970]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.03.42:869][622]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-20.03.43:043][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.20-20.03.43:380][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.03.43:422][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-20.03.43:428][631]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-20.03.43:428][631]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Base96B80EA84E22425688ABFBA234831023.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-20.03.43:437][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 7.76 sec)
+[2023.05.20-20.03.43:444][631]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-20.03.43:444][631]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-20.03.43:692][651]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.04.27:469][787]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.04.27:580][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.05.20-20.04.27:990][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.04.28:079][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.04.28:096][804]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.04.28:096][804]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy1E1F7E0E4066CEB498071E970DB126D8.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.04.28:107][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 7.88 sec)
+[2023.05.20-20.04.28:113][804]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.04.28:113][804]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.04.40:336][769]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.04.40:446][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.20-20.04.40:927][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.04.40:989][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.04.41:006][792]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.04.41:006][792]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyE9F27CF34FF7B603BA3A99B36A3F2B24.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.04.41:018][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 7.97 sec)
+[2023.05.20-20.04.41:025][792]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.04.41:025][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.04.44:078][ 35]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.12:035][510]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.05.12:091][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-20.05.12:114][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.20-20.05.12:132][510]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-20.05.12:132][510]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapAE1B10C44EAB3001EA3FCA983023CDEF.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-20.05.12:139][510]LogFileHelpers: Saving map 'StarterMap' took 0.048
+[2023.05.20-20.05.12:145][510]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 8.08 sec)
+[2023.05.20-20.05.12:151][510]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-20.05.12:151][510]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-20.05.16:636][704]Cmd: TRANSACTION UNDO
+[2023.05.20-20.05.16:636][704]LogEditorTransaction: Undo Move Elements
+[2023.05.20-20.05.16:768][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:768][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:769][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:769][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:770][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:770][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:770][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:771][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:771][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:774][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.16:774][704]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:482][830]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-20.05.19:493][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-20.05.19:494][830]PIE: New page: PIE session: StarterMap (21.05.2023, 00:05:19)
+[2023.05.20-20.05.19:494][830]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.05.19:498][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004361s)
+[2023.05.20-20.05.19:498][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004390s)
+[2023.05.20-20.05.19:498][830]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-20.05.19:498][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-20.05.19:499][830]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-20.05.19:499][830]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.05.20-20.05.19:522][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.05.20-20.05.19:524][830]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-20.05.19:524][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-20.05.19:524][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-20.05.19:525][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-20.05.19:525][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-20.05.19:525][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-20.05.19:527][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-20.05.19:569][830]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-20.05.19:570][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-20.05.19:570][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-20.05.19:570][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-20.05.19:571][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.05.20-20.05.19:571][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.05.20-20.05.19:572][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.05.20-20.05.19:572][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.05.20-20.05.19:572][830]LogInit: FAudioDevice initialized with ID 17.
+[2023.05.20-20.05.19:572][830]LogAudio: Display: Audio Device (ID: 17) registered with world 'StarterMap'.
+[2023.05.20-20.05.19:573][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2023.05.20-20.05.19:578][830]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-20.05.19:579][830]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-22.05.19
+[2023.05.20-20.05.19:580][830]LogWorld: Bringing up level for play took: 0.001962
+[2023.05.20-20.05.19:582][830]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.05.20-20.05.19:584][830]PIE: Server logged in
+[2023.05.20-20.05.19:584][830]PIE: Play in editor total start time 0,095 seconds.
+[2023.05.20-20.05.19:637][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:638][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:639][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:640][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:640][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:641][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:642][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:642][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:643][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:646][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.05.19:647][830]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.13:966][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.08.13:966][401]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.08.13:966][401]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.08.13:967][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.08.14:019][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-20.08.14:024][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.08.14:052][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.08.14:052][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2023.05.20-20.08.14:052][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.20-20.08.14:053][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.05.20-20.08.14:061][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.05.20-20.08.14:089][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:089][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:090][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:090][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:091][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:091][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:091][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:092][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:092][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:095][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:095][401]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.14:198][402]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.05.20-20.08.21:138][873]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.08.21:246][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.05.20-20.08.21:744][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.08.21:814][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.08.21:830][896]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.08.21:831][896]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy7925977A41E8B4444575A7AB10160FA3.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.08.21:842][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 8.18 sec)
+[2023.05.20-20.08.21:846][896]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.08.21:846][896]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.08.22:994][990]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:755][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-20.08.23:765][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-20.08.23:765][ 26]PIE: New page: PIE session: StarterMap (21.05.2023, 00:08:23)
+[2023.05.20-20.08.23:765][ 26]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.08.23:769][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004423s)
+[2023.05.20-20.08.23:769][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004448s)
+[2023.05.20-20.08.23:769][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-20.08.23:769][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-20.08.23:770][ 26]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-20.08.23:770][ 26]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2023.05.20-20.08.23:794][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.05.20-20.08.23:798][ 26]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-20.08.23:798][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-20.08.23:798][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-20.08.23:799][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-20.08.23:799][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-20.08.23:799][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-20.08.23:800][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-20.08.23:842][ 26]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-20.08.23:842][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-20.08.23:842][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-20.08.23:842][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-20.08.23:843][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.05.20-20.08.23:843][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.05.20-20.08.23:844][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.05.20-20.08.23:844][ 26]LogInit: FAudioDevice initialized with ID 18.
+[2023.05.20-20.08.23:844][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.05.20-20.08.23:844][ 26]LogAudio: Display: Audio Device (ID: 18) registered with world 'StarterMap'.
+[2023.05.20-20.08.23:844][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2023.05.20-20.08.23:848][ 26]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-20.08.23:850][ 26]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-22.08.23
+[2023.05.20-20.08.23:850][ 26]LogWorld: Bringing up level for play took: 0.001954
+[2023.05.20-20.08.23:852][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.05.20-20.08.23:854][ 26]PIE: Server logged in
+[2023.05.20-20.08.23:855][ 26]PIE: Play in editor total start time 0,092 seconds.
+[2023.05.20-20.08.23:899][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:900][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:900][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:900][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:901][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:901][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:902][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:902][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:902][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:905][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.23:906][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.34:133][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.08.34:134][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-20.08.34:155][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.05.20-20.08.34:169][815]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-20.08.34:169][815]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap0EAFF03A4FE457AA3BC3F191A3C27848.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-20.08.34:175][815]LogFileHelpers: Saving map 'StarterMap' took 0.041
+[2023.05.20-20.08.34:175][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 8.22 sec)
+[2023.05.20-20.08.34:180][815]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-20.08.34:180][815]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-20.08.57:386][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.08.57:386][623]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.08.57:386][623]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.08.57:386][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.08.57:445][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-20.08.57:449][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.08.57:475][623]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-20.08.57:475][623]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2023.05.20-20.08.57:475][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.20-20.08.57:477][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.05.20-20.08.57:480][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.08.57:484][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.05.20-20.08.57:515][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:516][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:517][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:517][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:518][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:518][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:519][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:519][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:519][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:522][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:523][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.08.57:624][624]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.05.20-20.09.34:517][572]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.09.34:626][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.20-20.09.35:231][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.09.35:307][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.09.35:323][607]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.09.35:323][607]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy5AADD6D242C226A6F75FA2BCEFD670B5.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.09.35:332][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 8.32 sec)
+[2023.05.20-20.09.35:337][607]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.09.35:337][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.09.36:994][753]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.38:007][803]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.09.38:049][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-20.09.38:073][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.05.20-20.09.38:089][803]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-20.09.38:089][803]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapDB4DE70A48B91EF39C47B2BB7A60D9B6.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-20.09.38:096][803]LogFileHelpers: Saving map 'StarterMap' took 0.047
+[2023.05.20-20.09.38:105][803]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 8.42 sec)
+[2023.05.20-20.09.38:112][803]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-20.09.38:112][803]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-20.09.38:902][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-20.09.38:911][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-20.09.38:911][842]PIE: New page: PIE session: StarterMap (21.05.2023, 00:09:38)
+[2023.05.20-20.09.38:911][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.09.38:916][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004448s)
+[2023.05.20-20.09.38:916][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004475s)
+[2023.05.20-20.09.38:916][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-20.09.38:916][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-20.09.38:916][842]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-20.09.38:917][842]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.05.20-20.09.38:938][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.20-20.09.38:940][842]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-20.09.38:940][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-20.09.38:940][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-20.09.38:941][842]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-20.09.38:941][842]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-20.09.38:941][842]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-20.09.38:943][842]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-20.09.38:983][842]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-20.09.38:984][842]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-20.09.38:984][842]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-20.09.38:984][842]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-20.09.38:984][842]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.05.20-20.09.38:984][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.05.20-20.09.38:986][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.05.20-20.09.38:986][842]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.05.20-20.09.38:986][842]LogInit: FAudioDevice initialized with ID 19.
+[2023.05.20-20.09.38:986][842]LogAudio: Display: Audio Device (ID: 19) registered with world 'StarterMap'.
+[2023.05.20-20.09.38:986][842]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2023.05.20-20.09.38:990][842]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-20.09.38:991][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-22.09.38
+[2023.05.20-20.09.38:992][842]LogWorld: Bringing up level for play took: 0.002015
+[2023.05.20-20.09.38:994][842]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.05.20-20.09.38:996][842]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 16.132573
+[2023.05.20-20.09.38:996][842]PIE: Server logged in
+[2023.05.20-20.09.38:997][842]PIE: Play in editor total start time 0,088 seconds.
+[2023.05.20-20.09.39:043][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:044][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:044][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:045][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:045][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:046][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:046][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:046][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:047][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:049][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.39:050][842]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.55:736][142]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 9.50145
+[2023.05.20-20.09.58:466][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.09.58:466][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.09.58:466][351]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.09.58:466][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.09.58:535][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-20.09.58:539][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.09.58:564][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.09.58:565][351]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2023.05.20-20.09.58:565][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.05.20-20.09.58:566][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.05.20-20.09.58:573][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.05.20-20.09.58:602][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:602][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:603][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:603][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:604][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:604][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:604][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:605][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:605][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:608][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:608][351]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.09.58:708][352]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.05.20-20.10.08:540][113]BlueprintLog: New page: Compile BP_NPC_Base
+[2023.05.20-20.10.08:721][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.20-20.10.09:174][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.10.09:218][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_NPC_Base" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset" SILENT=true
+[2023.05.20-20.10.09:224][133]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_NPC_Base
+[2023.05.20-20.10.09:224][133]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_BaseED8092B14F6DDA1B0B4ED2AB9AFCB0AF.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/BP_NPC_Base.uasset'
+[2023.05.20-20.10.09:233][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 8.48 sec)
+[2023.05.20-20.10.09:238][133]AssetCheck: New page: Asset Save: BP_NPC_Base
+[2023.05.20-20.10.09:238][133]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_NPC_Base.BP_NPC_Base
+[2023.05.20-20.10.09:497][156]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:415][254]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.20-20.10.11:424][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.20-20.10.11:424][254]PIE: New page: PIE session: StarterMap (21.05.2023, 00:10:11)
+[2023.05.20-20.10.11:424][254]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.10.11:429][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004451s)
+[2023.05.20-20.10.11:429][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StarterMap.StarterMap to /Game/Maps/UEDPIE_0_StarterMap.StarterMap (0.004480s)
+[2023.05.20-20.10.11:429][254]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.20-20.10.11:429][254]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.20-20.10.11:429][254]LogAIModule: Creating AISystem for world StarterMap
+[2023.05.20-20.10.11:429][254]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2023.05.20-20.10.11:453][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.05.20-20.10.11:457][254]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.20-20.10.11:457][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.20-20.10.11:457][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.20-20.10.11:458][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.20-20.10.11:458][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.20-20.10.11:458][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.20-20.10.11:460][254]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.20-20.10.11:499][254]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (5- Roland Rubix 22)
+[2023.05.20-20.10.11:500][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.20-20.10.11:500][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.20-20.10.11:500][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.20-20.10.11:500][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.05.20-20.10.11:500][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.05.20-20.10.11:502][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.05.20-20.10.11:502][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.05.20-20.10.11:502][254]LogInit: FAudioDevice initialized with ID 20.
+[2023.05.20-20.10.11:502][254]LogAudio: Display: Audio Device (ID: 20) registered with world 'StarterMap'.
+[2023.05.20-20.10.11:502][254]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2023.05.20-20.10.11:506][254]LogLoad: Game class is 'GM_Gameplay_C'
+[2023.05.20-20.10.11:508][254]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 0) at 2023.05.20-22.10.11
+[2023.05.20-20.10.11:508][254]LogWorld: Bringing up level for play took: 0.001976
+[2023.05.20-20.10.11:510][254]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.05.20-20.10.11:512][254]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 12.923734
+[2023.05.20-20.10.11:512][254]PIE: Server logged in
+[2023.05.20-20.10.11:513][254]PIE: Play in editor total start time 0,092 seconds.
+[2023.05.20-20.10.11:557][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:557][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:558][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:558][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:559][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:559][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:560][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:560][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:560][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:563][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.11:564][254]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.10.31:420][796]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 13.212165
+[2023.05.20-20.10.53:674][698]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 7.220588
+[2023.05.20-20.11.13:672][362]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 13.780694
+[2023.05.20-20.11.33:672][ 23]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 7.87878
+[2023.05.20-20.11.53:669][689]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 12.905881
+[2023.05.20-20.12.13:663][339]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 14.434919
+[2023.05.20-20.12.33:661][  1]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 19.861935
+[2023.05.20-20.12.53:654][661]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 19.753227
+[2023.05.20-20.13.13:651][337]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 15.679891
+[2023.05.20-20.13.33:655][ 34]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 17.668355
+[2023.05.20-20.13.53:641][702]LogBlueprintUserMessages: [BP_NPC_Enemy_C_1] 14.31669
+[2023.05.20-20.13.56:914][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.13.56:914][969]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StarterMap
+[2023.05.20-20.13.56:914][969]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-20.13.56:915][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.13.56:979][969]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.20-20.13.56:984][969]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-20.13.57:011][969]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.20-20.13.57:011][969]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2023.05.20-20.13.57:011][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.05.20-20.13.57:013][969]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.05.20-20.13.57:017][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.20-20.13.57:019][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.20-20.13.57:051][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:052][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:052][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:053][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:053][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:054][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:054][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:054][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:055][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:057][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:057][969]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.13.57:151][970]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.20-20.13.59:081][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.05.20-20.13.59:085][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.13.59:124][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-20.13.59:145][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.20-20.13.59:160][ 64]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-20.13.59:160][ 64]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapAD94477A452535479079518538EB05C0.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-20.13.59:166][ 64]LogFileHelpers: Saving map 'StarterMap' took 0.042
+[2023.05.20-20.13.59:184][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.13.59:200][ 64]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.13.59:200][ 64]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_Enemy88BE75BD415934F5B40DABB7811470AF.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.13.59:218][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 8.61 sec)
+[2023.05.20-20.13.59:226][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2023.05.20-20.13.59:226][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.13.59:226][ 64]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-20.15.28:976][ 51]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.15.29:085][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.20-20.15.29:192][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.15.29:548][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.15.29:610][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.15.29:626][ 61]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.15.29:626][ 61]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyA9C089CE42FECECDEB8663979C73D041.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.15.29:634][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 8.70 sec)
+[2023.05.20-20.15.29:640][ 61]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.15.29:640][ 61]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.16.12:469][418]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-20.16.12:578][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.05.20-20.16.12:670][418]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-20.16.13:066][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.16.13:144][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-20.16.13:160][431]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-20.16.13:160][431]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyBD6CF1194EC85DEF8FDDD18DD28A1F01.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-20.16.13:169][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 8.80 sec)
+[2023.05.20-20.16.13:173][431]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-20.16.13:173][431]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-20.16.25:543][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.05.20-20.16.25:549][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-20.16.25:595][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-20.16.25:618][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.05.20-20.16.25:632][101]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-20.16.25:632][101]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMapA44E5E18448D66A36BCCD59CE270C9D9.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-20.16.25:638][101]LogFileHelpers: Saving map 'StarterMap' took 0.044
+[2023.05.20-20.16.25:647][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 8.90 sec)
+[2023.05.20-20.16.25:655][101]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-20.16.25:655][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
