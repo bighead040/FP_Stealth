@@ -18870,3 +18870,102 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.20-20.16.25:647][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 8.90 sec)
 [2023.05.20-20.16.25:655][101]AssetCheck: New page: Asset Save: StarterMap
 [2023.05.20-20.16.25:655][101]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-20.41.45:787][140]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.138 and deleted 0 files with total size 0 MiB and 4 empty folders. Scanned 3182 files in 4611 folders with total size 202 MiB.
+[2023.05.20-20.47.10:331][424]LogViewport: Scene viewport resized to 674x318, mode Windowed.
+[2023.05.20-21.30.43:824][195]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-21.30.43:835][195]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.05.20-21.33.21:814][955]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-21.33.21:884][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.05.20-21.33.22:306][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.33.22:397][985]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-21.33.22:398][985]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_EnemyD961D37D4EA893E64B0026A83A2EF958.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-21.33.22:408][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 9.00 sec)
+[2023.05.20-21.33.22:414][985]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-21.33.22:414][985]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-21.35.13:562][271]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-21.35.13:630][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.20-21.35.14:116][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.35.14:206][304]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-21.35.14:206][304]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy55410B7B409D14A71B41B989376F8CE6.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-21.35.14:216][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 9.10 sec)
+[2023.05.20-21.35.14:221][304]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-21.35.14:221][304]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-21.36.08:595][222]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-21.36.08:666][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.20-21.36.09:152][257]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.36.09:220][257]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-21.36.09:220][257]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy0CA3D56B41C805F46B5D948D74C54116.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-21.36.09:228][257]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 9.18 sec)
+[2023.05.20-21.36.09:236][257]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-21.36.09:236][257]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-21.36.26:393][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.36.26:445][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-21.36.26:461][887]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-21.36.26:461][887]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyA3ADFFD74D8662CFFDACD5B71BC36DAE.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-21.36.26:470][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 9.26 sec)
+[2023.05.20-21.36.26:475][887]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-21.36.26:475][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-21.36.26:744][909]BlueprintLog: New page: Compile BP_NPC_Enemy
+[2023.05.20-21.36.26:871][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.05.20-21.36.27:193][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.36.27:270][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/NPC/Enemy/BP_NPC_Enemy" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset" SILENT=true
+[2023.05.20-21.36.27:285][923]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy
+[2023.05.20-21.36.27:286][923]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_NPC_EnemyEFF7ADC3459B9205B9B3BD9CEAAB19A7.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_NPC_Enemy.uasset'
+[2023.05.20-21.36.27:294][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 9.36 sec)
+[2023.05.20-21.36.27:299][923]AssetCheck: New page: Asset Save: BP_NPC_Enemy
+[2023.05.20-21.36.27:299][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_NPC_Enemy.BP_NPC_Enemy
+[2023.05.20-21.36.28:440][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.20-21.36.28:440][ 24]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-21.36.28:440][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-21.36.29:811][143]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.20-21.36.29:811][143]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.05.20-21.36.29:811][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.20-21.37.44:476][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.05.20-21.37.44:497][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StarterMap_Auto2
+[2023.05.20-21.37.44:497][ 98]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap_Auto2886C60D1495DF9417F715E9345278BAA.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/Autosaves/Game/Maps/StarterMap_Auto2.umap'
+[2023.05.20-21.37.44:503][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StarterMap' took 0.053
+[2023.05.20-21.37.44:503][ 98]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2023.05.20-21.37.44:503][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NPC/Enemy/BP_Controller_Enemy] ([2] browsable assets)...
+[2023.05.20-21.37.44:503][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NPC/Enemy/BP_Controller_Enemy]
+[2023.05.20-21.37.44:528][ 98]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/NPC/Enemy/BP_Controller_Enemy_Auto2
+[2023.05.20-21.37.44:528][ 98]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy_Auto2CEA6E5FE48CE9DBBE38973AD109C218B.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/Autosaves/Game/Blueprints/NPC/Enemy/BP_Controller_Enemy_Auto2.uasset'
+[2023.05.20-21.37.44:528][ 98]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.05.20-21.39.02:185][480]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-21.39.02:254][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.05.20-21.39.02:736][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.39.02:829][514]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-21.39.02:829][514]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_EnemyB8575C1C4C3EA9B7426BBC82CFFD7EFC.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-21.39.02:836][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 9.46 sec)
+[2023.05.20-21.39.02:844][514]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-21.39.02:844][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-21.39.32:655][693]LogViewport: Scene viewport resized to 1016x514, mode Windowed.
+[2023.05.20-21.39.32:705][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:706][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:706][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:706][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:707][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:707][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:707][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:708][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:708][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.32:708][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.20-21.39.34:304][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.05.20-21.39.34:311][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.39.34:369][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StarterMap" FILE="../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.05.20-21.39.34:394][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.05.20-21.39.34:408][771]LogSavePackage: Moving output files for package: /Game/Maps/StarterMap
+[2023.05.20-21.39.34:408][771]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/StarterMap175F3F53443799BF825347B6A3BE0835.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Maps/StarterMap.umap'
+[2023.05.20-21.39.34:414][771]LogFileHelpers: Saving map 'StarterMap' took 0.046
+[2023.05.20-21.39.34:420][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 9.57 sec)
+[2023.05.20-21.39.34:428][771]AssetCheck: New page: Asset Save: StarterMap
+[2023.05.20-21.39.34:428][771]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/StarterMap.StarterMap
+[2023.05.20-21.41.46:679][277]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.029 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3182 files in 4607 folders with total size 202 MiB.
+[2023.05.20-21.44.30:310][ 85]BlueprintLog: New page: Compile BP_Controller_Enemy
+[2023.05.20-21.44.30:380][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.05.20-21.44.30:840][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.20-21.44.30:932][100]LogSavePackage: Moving output files for package: /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy
+[2023.05.20-21.44.30:932][100]LogSavePackage: Moving '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Saved/BP_Controller_Enemy49D0B8BE40E8EFD649B3199F19B11E6C.tmp' to '../../../../../../UE5_projects/GitHub/FP_Stealth/FP_Stealth/Content/Blueprints/NPC/Enemy/BP_Controller_Enemy.uasset'
+[2023.05.20-21.44.30:940][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 9.67 sec)
+[2023.05.20-21.44.30:947][100]AssetCheck: New page: Asset Save: BP_Controller_Enemy
+[2023.05.20-21.44.30:947][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/NPC/Enemy/BP_Controller_Enemy.BP_Controller_Enemy
+[2023.05.20-21.44.34:643][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
